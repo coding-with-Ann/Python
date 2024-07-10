@@ -1,0 +1,3 @@
+Hello There
+this is to read
+multiple lines using for loop
